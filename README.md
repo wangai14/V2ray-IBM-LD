@@ -19,3 +19,6 @@
 注：VMESS默认的alterId为64
 
 本项目基于P3TERX项目修改而来，感谢P3TERX
+
+
+
